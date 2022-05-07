@@ -1,0 +1,40 @@
+body{
+
+    background-size: cover;
+    background-position: center;
+
+}
+
+.heading{
+
+font-size: 23px;
+width: 100%;
+margin: 0px;
+color: red;
+
+}
+
+#status{
+
+font-size: 18px;
+
+}
+
+canvas{
+
+box-shadow: 1px 1px 40px blue;
+border-radius: 20px;
+border-style: ridge;
+border-color: purple;
+border-width: 10px;
+
+}
+
+.note{
+
+font-size: 23px;
+width: 100%;
+margin: 0px;
+color: orange;
+    
+}
